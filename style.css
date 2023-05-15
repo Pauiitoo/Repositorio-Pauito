@@ -1,0 +1,24 @@
+    table, th, td {
+    border: 1px solid black;
+    }
+    table{
+        width: 100%;
+    }
+    h1{
+        color:deepskyblue;
+    }
+    h1, h3{
+        font-style: italic;
+    }
+    header p{
+        font-family: "Brush Script MT";
+        
+    }
+    .xuripiruli{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+    }
+    header.xuripiruli{
+        
+    }
+
